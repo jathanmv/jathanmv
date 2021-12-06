@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jathanmv
-- 👀 I’m interested in machine learning and data science
+- 👀 I’m interested in Full stack web development
 - 🌱 I’m currently learning ...information science
-- 💞️ I’m looking to collaborate on ...Any Machine learning projects
+- 💞️ I’m looking to collaborate on ...any web based projects
 - 📫 How to reach me ...
 
 <!---
