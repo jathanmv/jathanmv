@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jathanmv
-- 👀 I’m interested in Full stack web development
+- 👀 I’m interested in Backend engineering
 - 🌱 I’m currently learning ...information science
 - 💞️ I’m looking to collaborate on ...any web based projects
 - 📫 How to reach me ...
